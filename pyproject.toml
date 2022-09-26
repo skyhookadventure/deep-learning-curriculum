@@ -4,8 +4,9 @@ requires = ["setuptools"]
 
 [project]
 dependencies = [
+   "jupyterlab-spellchecker",
    "pytest"
 ]
-name = "project-name"
+name = "deep-learning-curriculum"
 
 version = "0.0.1"
